@@ -1,6 +1,6 @@
 # Digital Transformation of Business (MGMT 518): Week 2 Dossier
 
-*Prepared 2026-10-03; class prep section added 2026-10-06 and HBR summary updated from the full text. Week 2: Technology Drivers, Cyber Security, and the Role of Customer Insight. Bracketed numbers [n] point to the References section. Statistics are as quoted by the instructors in the lectures and were not independently verified.*
+*Prepared 2026-10-03; class prep section added 2026-10-06, HBR summary updated from the full text, and assignment requirements added from Canvas. Week 2: Technology Drivers, Cyber Security, and the Role of Customer Insight. Bracketed numbers [n] point to the References section. Statistics are as quoted by the instructors in the lectures and were not independently verified.*
 
 Week 2 moves from what the technology is to why it is adopted, attacked or abandoned: technology only succeeds when it serves a business model, is secured by design, and solves a validated customer problem [1][2][3].
 
@@ -12,8 +12,22 @@ Due dates are from the Canvas assignment list, Pacific time [8]. Week 2 opens Mo
 - [ ] **Before class:** Read "Know Your Customers' Jobs to Be Done" (HBR, Sept 2016), about 8 pages. A summary written from the full text is in Section 5 [9]
 - [ ] **In class:** Kristy Edwards joins, so bring a point of view or a question. Suggested ones are in Section 5 [7][8][11]
 - [ ] **Before the Project Plan:** Review the Project Plan Examples and Best Practices, the Discussion Guide Template and the Discussion Guide Best Practices (Canvas files, not read for this dossier) [8]
-- [ ] **Sun Oct 11, 11:59 PM:** #1 Icebreaker & Team Contract (5 pts) [8]
-- [ ] **Sun Oct 11, 11:59 PM:** #2 Project Plan (15 pts), including your interview schedule [7][8]
+- [ ] **Sun Oct 11, 11:59 PM:** #1 Icebreaker & Team Contract (5 pts). Deliver a 1 to 2 page Team Collaboration Document as a PDF; one person submits for the team, with unlimited attempts [8]
+    - [ ] Do at least one team-building activity (for example cook and eat together, or 1:1s practicing empathetic listening: share something important, then repeat it back in your own words)
+    - [ ] Document: what you did and how it felt
+    - [ ] Document: agreed communication channels and expected response times
+    - [ ] Document: a decision-making rule for when the team disagrees
+    - [ ] Document: an escalation mechanism for quality or timeliness problems
+    - [ ] Document: all member names and an AI Use Statement
+- [ ] **Sun Oct 11, 11:59 PM:** #2 Project Plan (15 pts). Deliver a customized VOC Interview Plan as a PDF, built by customizing the discussion guide template, with unlimited attempts [7][8]
+    - [ ] Professional formatting with page numbers; project name, assignment title, team member names and date at the top or on a title page
+    - [ ] Problem definition: what you want to learn, the decisions it will enable, and the assumptions you will test
+    - [ ] Ideal respondent profile: process projects need at least 3 respondents from the same organization; market insights projects need 5 to 10
+    - [ ] Interview logistics: how you will schedule, how you will transcribe, and who will conduct the interviews
+    - [ ] A customized discussion guide
+    - [ ] Optional recruiting plan if you will recruit more respondents
+    - [ ] AI Use Statement
+    - [ ] Grading: 15 to above 13 points if all elements are present with a clear problem definition and assumptions, a tailored guide, structured logistics and a fair workload split; 13 to above 10 if all are present but vague or generic; 10 or below if elements are missing or unclear [8]
 - [ ] **Sun Oct 11, 11:59 PM:** Week 2 Quiz (5 pts) [8]
 - [ ] **Weekly reflection:** The Week 1 module says each week has one; I found no separate Canvas item for it, so check the quiz page [8]
 - [ ] **Optional:** Read Siebel Chapter 3, "The Information Age Accelerates" [8][10]
@@ -77,7 +91,7 @@ Due dates are from the Canvas assignment list, Pacific time [8]. Week 2 opens Mo
 
 ## 4. Voice-of-customer interviews: recruiting and the discussion guide
 
-This feeds directly into the #2 Project Plan, where the Week 1 overview calls for 3 to 4 interviews on a single organization's process or 5 to 10 for a broader view [5][6][7].
+This feeds directly into the #2 Project Plan, where the Canvas assignment requires at least 3 respondents from the same organization for process projects, or 5 to 10 for market insights projects [5][6][8].
 
 **Recruitment [5]:**
 - **Screening:** Define your respondent profile and count first. If a sponsor lines up interviews, send a short email with the purpose, the time needed and a clear call to action.
