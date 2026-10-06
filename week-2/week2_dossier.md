@@ -1,6 +1,6 @@
 # Digital Transformation of Business (MGMT 518): Week 2 Dossier
 
-*Prepared 2026-10-03; class prep section added 2026-10-06. Week 2: Technology Drivers, Cyber Security, and the Role of Customer Insight. Bracketed numbers [n] point to the References section. Statistics are as quoted by the instructors in the lectures and were not independently verified.*
+*Prepared 2026-10-03; class prep section added 2026-10-06 and HBR summary updated from the full text. Week 2: Technology Drivers, Cyber Security, and the Role of Customer Insight. Bracketed numbers [n] point to the References section. Statistics are as quoted by the instructors in the lectures and were not independently verified.*
 
 Week 2 moves from what the technology is to why it is adopted, attacked or abandoned: technology only succeeds when it serves a business model, is secured by design, and solves a validated customer problem [1][2][3].
 
@@ -9,8 +9,8 @@ Week 2 moves from what the technology is to why it is adopted, attacked or aband
 Due dates are from the Canvas assignment list, Pacific time [8]. Week 2 opens Mon Oct 5 [8].
 
 - [ ] **Before class (Mon Oct 5 on Zoom or Tue Oct 6 in person, per the course overview; confirm time in Canvas):** Watch the six recordings (about 70 minutes plus the Cyber Security video, whose length is not listed). Prep notes are in [Section 5](#5-class-prep-recordings-hbr-reading-and-questions-for-kristy-edwards) [1][2][3][4][5][6][7][8]
-- [ ] **Before class:** Read "Know Your Customers' Jobs to Be Done" (HBR, Sept 2016). I could not access the full text, so Section 5 has a confirmed summary and a reading guide [9]
-- [ ] **In class:** Kristy Edwards joins, so bring a point of view or a question. Suggested ones are in Section 5 [7][8][12]
+- [ ] **Before class:** Read "Know Your Customers' Jobs to Be Done" (HBR, Sept 2016), about 8 pages. A summary written from the full text is in Section 5 [9]
+- [ ] **In class:** Kristy Edwards joins, so bring a point of view or a question. Suggested ones are in Section 5 [7][8][11]
 - [ ] **Before the Project Plan:** Review the Project Plan Examples and Best Practices, the Discussion Guide Template and the Discussion Guide Best Practices (Canvas files, not read for this dossier) [8]
 - [ ] **Sun Oct 11, 11:59 PM:** #1 Icebreaker & Team Contract (5 pts) [8]
 - [ ] **Sun Oct 11, 11:59 PM:** #2 Project Plan (15 pts), including your interview schedule [7][8]
@@ -104,13 +104,21 @@ This feeds directly into the #2 Project Plan, where the Week 1 overview calls fo
 | VOC Recruitment and Interview Plan [5] (7:29) | Screening criteria, recruiting channels, a short screener, consent, and tools (Calendly, Zoom, Otter.ai, content grid) |
 | VOC Discussion Guide [6] (4:26) | Ask for stories, not predictions; do not pitch or lead; favor what, when, where, who, how and why |
 
-**HBR article: "Know Your Customers' Jobs to Be Done" (Christensen, Hall, Dillon and Duncan, Sept 2016) [9]**
+**HBR article: "Know Your Customers' 'Jobs to Be Done'" (Christensen, Hall, Dillon and Duncan, Sept 2016) [9]**
 
-- **What I could confirm:** The authors argue that companies have plenty of customer data yet struggle to innovate because they focus on demographic profiles. Their framing is that "when we buy a product, we essentially 'hire' it to help us do a job." Jobs have functional, social and emotional dimensions, and the circumstances of the buyer predict choices better than buyer characteristics do. In their condo-developer example, sales improved when the pitch moved from construction features to helping buyers through a life transition [9].
-- **What I could not read:** The full article is behind HBR's paywall, so details beyond that summary are not covered here. A third-party summary of the same authors' related book, *Competing Against Luck*, describes a milkshake example and five ways to spot jobs; I could not confirm those appear in the article [11].
-- **Reading guide:** As you read, ask three things. (1) What job is the condo buyer "hiring" the home to do? (2) Which parts of that job are functional, social and emotional, as in the Customer Insight lecture [3]? (3) Which research tool from the lecture (interviews, ethnography, experiments) would test it, and how would you apply that to your project interviews?
+*Summary written from the full text; paraphrased, with short quotes only.*
 
-**Kristy Edwards: a point of view and questions [12]**
+- **The problem:** Executives rate innovation as critical (84% in a McKinsey poll cited) but 94% are dissatisfied with their results, even though firms have more customer data than ever. The authors blame data built around correlations: customers who look alike, or a share who prefer version A. A 64-year-old, six-foot-eight reader of the *New York Times* does not buy it because of his age, height or shoe size, but because of a specific need in a specific moment.
+- **The core idea:** Focus on the progress a customer is trying to make in a given circumstance, the "job to be done." People "hire" a product for a job and "fire" it if it does the job badly. Disruption theory explains how incumbents get beaten; jobs theory explains how to create things customers want to buy because it reaches the causal driver of a purchase.
+- **Condo example:** A Detroit-area builder targeting downsizers got traffic but few sales, and adding features like bay windows did not help. Consultant Bob Moesta had buyers draw a timeline of how they got there, and found no demographic or feature pattern. What stood out was the dining room table: buyers could not move until they decided what to do with something that represented their family. The builder made room for a table, cut the second bedroom to do so, and added moving services, two years of storage and a sorting room. It raised prices by $3,500, and in 2007, while industry sales fell 49%, it grew 25%.
+- **Four principles of a job:** It is about what someone wants to accomplish in a circumstance, not just a task. Circumstances matter more than customer traits, product attributes or trends (the condos competed with not moving at all). Good innovations solve problems with poor or no existing solutions. Jobs always have social and emotional dimensions, not just functional ones.
+- **Beyond the job:** Nielsen found only 92 of more than 20,000 new products from 2012 to 2016 sold over $50 million in year one and held sales in year two, and each solved a specific, poorly done job (for example, Reese's Minis, with $235 million in two years). Lasting advantage then needs the right customer experience (American Girl sells experiences and stories, not just dolls; no detail was too small, even the box's "belly band") and aligned processes (Southern New Hampshire University redesigned its admissions and support around adult online students, with a goal of a follow-up call within 8.5 minutes and a personal adviser for each student).
+- **Five questions to find jobs:** Do you have a job that needs doing yourself (American Girl, Care.com)? Where do you see nonconsumption (SNHU's older learners)? What workarounds have people invented (small businesses using Quicken, which led Intuit to a new market)? What tasks do people want to avoid, the "negative jobs" (CVS MinuteClinic)? What surprising uses have customers found (NyQuil taken for sleep led to ZzzQuil)?
+- **B2B sidebar:** Intercom's cofounder Des Traynor describes how interviews with new and churned customers showed four jobs (observe, engage, learn, support). Customers used different words than the company did, and the company moved from one all-in-one price to four services.
+
+**How it connects to your class project:** Moesta's method is the same kind of voice-of-customer interview as the lecture [3][6]: reconstruct the timeline of what led to a decision and look for the pushes (a problem to solve) and the pulls back (inertia, anxiety). When you interview for the Project Plan, ask about the last time someone dealt with the problem, not what feature they want, and note the social and emotional side of the job along with the functional side.
+
+**Kristy Edwards: a point of view and questions [11]**
 
 Her talk argues that AI-era attacks are mostly old threats at greater scale and speed plus a few new ones such as prompt injection and agents acting on their own; defenders must cover both, and security must be everyone's responsibility.
 
@@ -132,10 +140,8 @@ Her talk argues that AI-era attacks are mostly old threats at greater scale and 
 6. *VOC Discussion Guide & Problem Interviews* (4:26). PSU Media Space. https://media.pdx.edu/media/t/1_xvri7q7v
 7. *Course Overview* (12:09), Week 1. PSU Media Space. https://media.pdx.edu/media/t/1_iog44gq1
 8. *MGMT 518 Digital Transformation, Fall 2026* (PSU Canvas): Week 2 module page, module list and assignments, read 2026-10-03. https://canvas.pdx.edu/courses/120638/modules and https://canvas.pdx.edu/courses/120638/assignments (requires PSU login)
-9. Christensen, C. M., Hall, T., Dillon, K., & Duncan, D. S. (2016, September). Know your customers' "jobs to be done." *Harvard Business Review*. https://hbr.org/2016/09/know-your-customers-jobs-to-be-done (premium article; only a web summary was accessible, not the full text)
+9. Christensen, C. M., Hall, T., Dillon, K., & Duncan, D. S. (2016, September). Know your customers' "jobs to be done." *Harvard Business Review*, September 2016 issue (HBR Reprint R1609D). https://hbr.org/2016/09/know-your-customers-jobs-to-be-done (summarized from a full-text copy you supplied; the copy is marked for individual research use, so it is not reproduced here)
 10. Siebel, T. M. (2019). *Digital Transformation: Survive and Thrive in an Era of Mass Extinction*. RosettaBooks. (Optional reading; summarized here only via [1].)
+11. *Guest Speaker: Kristy Edwards, Cyber Security & AI* (33:19), Week 1 recording. PSU Media Space. https://media.pdx.edu/media/t/1_a45y49qc
 
-11. "Why asking your customers what they want doesn't work" (Substack summary of the jobs-to-be-done framework, including *Competing Against Luck*; third-party, not verified against the HBR article). https://techbooks.substack.com/p/why-asking-your-customers-what-they
-12. *Guest Speaker: Kristy Edwards, Cyber Security & AI* (33:19), Week 1 recording. PSU Media Space. https://media.pdx.edu/media/t/1_a45y49qc
-
-*Note:* Items 1 to 7 and 12 are summarized from the English captions of each video. Slides, the Project Plan Examples and the Discussion Guide files on Canvas were not read. Third-party facts (Segway, Stuxnet, Change Healthcare, MIT and McKinsey figures and so on) are reported as the instructors present them.
+*Note:* Items 1 to 7 and 11 are summarized from the English captions of each video; item 9 is summarized from the article text you supplied. Slides, the Project Plan Examples and the Discussion Guide files on Canvas were not read. Third-party facts (Segway, Stuxnet, Change Healthcare, MIT and McKinsey figures and so on) are reported as the instructors present them.
