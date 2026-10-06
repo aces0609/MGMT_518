@@ -1,6 +1,6 @@
 # Digital Transformation of Business (MGMT 518): Week 2 Dossier
 
-*Prepared 2026-10-03. Week 2: Technology Drivers, Cyber Security, and the Role of Customer Insight. Bracketed numbers [n] point to the References section. Statistics are as quoted by the instructors in the lectures and were not independently verified.*
+*Prepared 2026-10-03; class prep section added 2026-10-06. Week 2: Technology Drivers, Cyber Security, and the Role of Customer Insight. Bracketed numbers [n] point to the References section. Statistics are as quoted by the instructors in the lectures and were not independently verified.*
 
 Week 2 moves from what the technology is to why it is adopted, attacked or abandoned: technology only succeeds when it serves a business model, is secured by design, and solves a validated customer problem [1][2][3].
 
@@ -8,8 +8,9 @@ Week 2 moves from what the technology is to why it is adopted, attacked or aband
 
 Due dates are from the Canvas assignment list, Pacific time [8]. Week 2 opens Mon Oct 5 [8].
 
-- [ ] **Before class (Mon Oct 5 on Zoom or Tue Oct 6 in person, per the course overview; confirm time in Canvas):** Watch the six recordings and read the HBR article. Kristy Edwards joins the class, so bring a point of view or a question [7][8]
-- [ ] **Before class:** Read "Know Your Customers' Jobs to Be Done" (HBR, Sept 2016) [9]
+- [ ] **Before class (Mon Oct 5 on Zoom or Tue Oct 6 in person, per the course overview; confirm time in Canvas):** Watch the six recordings (about 70 minutes plus the Cyber Security video, whose length is not listed). Prep notes are in [Section 5](#5-class-prep-recordings-hbr-reading-and-questions-for-kristy-edwards) [1][2][3][4][5][6][7][8]
+- [ ] **Before class:** Read "Know Your Customers' Jobs to Be Done" (HBR, Sept 2016). I could not access the full text, so Section 5 has a confirmed summary and a reading guide [9]
+- [ ] **In class:** Kristy Edwards joins, so bring a point of view or a question. Suggested ones are in Section 5 [7][8][12]
 - [ ] **Before the Project Plan:** Review the Project Plan Examples and Best Practices, the Discussion Guide Template and the Discussion Guide Best Practices (Canvas files, not read for this dossier) [8]
 - [ ] **Sun Oct 11, 11:59 PM:** #1 Icebreaker & Team Contract (5 pts) [8]
 - [ ] **Sun Oct 11, 11:59 PM:** #2 Project Plan (15 pts), including your interview schedule [7][8]
@@ -90,6 +91,37 @@ This feeds directly into the #2 Project Plan, where the Week 1 overview calls fo
 - Do not pitch, imply the person has a problem, or ask leading yes/no questions; favor what, when, where, who, how and why.
 - Observe behavior, not opinions. Interviews can be an hour on as few as five questions.
 
+## 5. Class prep: recordings, HBR reading and questions for Kristy Edwards
+
+**The six recordings: what to take from each**
+
+| Recording (length) | What to take from it |
+| --- | --- |
+| Siebel Ch. 3 [1] (26:25) | Cloud, big data, AI and IoT work as a layered loop; adoption depends on business models and KPIs, and varies by function; generative AI pilots reportedly fell from about 25% to about 18% actively in use |
+| Cyber Security [2] (length not listed) | Security moved from perimeter to detection, Zero Trust and resilience; IoT, ransomware and prompt injection are the new surfaces; most breaches start with people |
+| Customer Insight [3] (19:19) | Start with the problem, not the solution; a job to be done has functional, emotional and social dimensions; judge a problem on intensity, frequency and density; interviews beat surveys and focus groups for the "why" |
+| Problem Definition [4] (12:00) | Agree on a metric and a baseline; beware the HIPPO; use the five whys to reach root cause (Jefferson Memorial, airport street pricing) |
+| VOC Recruitment and Interview Plan [5] (7:29) | Screening criteria, recruiting channels, a short screener, consent, and tools (Calendly, Zoom, Otter.ai, content grid) |
+| VOC Discussion Guide [6] (4:26) | Ask for stories, not predictions; do not pitch or lead; favor what, when, where, who, how and why |
+
+**HBR article: "Know Your Customers' Jobs to Be Done" (Christensen, Hall, Dillon and Duncan, Sept 2016) [9]**
+
+- **What I could confirm:** The authors argue that companies have plenty of customer data yet struggle to innovate because they focus on demographic profiles. Their framing is that "when we buy a product, we essentially 'hire' it to help us do a job." Jobs have functional, social and emotional dimensions, and the circumstances of the buyer predict choices better than buyer characteristics do. In their condo-developer example, sales improved when the pitch moved from construction features to helping buyers through a life transition [9].
+- **What I could not read:** The full article is behind HBR's paywall, so details beyond that summary are not covered here. A third-party summary of the same authors' related book, *Competing Against Luck*, describes a milkshake example and five ways to spot jobs; I could not confirm those appear in the article [11].
+- **Reading guide:** As you read, ask three things. (1) What job is the condo buyer "hiring" the home to do? (2) Which parts of that job are functional, social and emotional, as in the Customer Insight lecture [3]? (3) Which research tool from the lecture (interviews, ethnography, experiments) would test it, and how would you apply that to your project interviews?
+
+**Kristy Edwards: a point of view and questions [12]**
+
+Her talk argues that AI-era attacks are mostly old threats at greater scale and speed plus a few new ones such as prompt injection and agents acting on their own; defenders must cover both, and security must be everyone's responsibility.
+
+- **A point of view you could bring:** In regulated or high-stakes settings, the question is rarely whether a team can build something, but whether it can get permission to deploy it. Security by design, least-privilege access and guardrails on agents are how teams earn that permission, so safeguards enable adoption instead of only blocking it. Use this only if it matches your own view.
+- **Questions:**
+  1. You said agents force us to rethink permissions, identity and data access. What does least privilege look like for an AI agent in practice, and who should approve it?
+  2. For organizations that build decisions on sensor and equipment data, where would you start securing the pipeline, and how should teams treat inbound data given prompt injection?
+  3. You said security is underfunded because success is invisible. How do you make the business case to leadership before an incident?
+  4. With attackers and defenders both gaining from AI, what is the first thing a non-security leader should do in the next 90 days?
+- **Attribution:** Her claims about April and July 2026 AI security events are hers and were not independently verified, so attribute them to her if you cite them. The captions spell her name "Christy" and Canvas spells it "Kristi" or "Kristy."
+
 ## References
 
 1. *Week 2: Siebel Chapter 3, The Information Age Accelerates* (26:25), lecture. PSU Media Space. https://media.pdx.edu/media/t/1_18aoqiew
@@ -103,4 +135,7 @@ This feeds directly into the #2 Project Plan, where the Week 1 overview calls fo
 9. Christensen, C. M., Hall, T., Dillon, K., & Duncan, D. S. (2016, September). Know your customers' "jobs to be done." *Harvard Business Review*. https://hbr.org/2016/09/know-your-customers-jobs-to-be-done (premium article; only a web summary was accessible, not the full text)
 10. Siebel, T. M. (2019). *Digital Transformation: Survive and Thrive in an Era of Mass Extinction*. RosettaBooks. (Optional reading; summarized here only via [1].)
 
-*Note:* Items 1 to 7 are summarized from the English captions of each video. Slides, the Project Plan Examples and the Discussion Guide files on Canvas were not read. Third-party facts (Segway, Stuxnet, Change Healthcare, MIT and McKinsey figures and so on) are reported as the instructors present them.
+11. "Why asking your customers what they want doesn't work" (Substack summary of the jobs-to-be-done framework, including *Competing Against Luck*; third-party, not verified against the HBR article). https://techbooks.substack.com/p/why-asking-your-customers-what-they
+12. *Guest Speaker: Kristy Edwards, Cyber Security & AI* (33:19), Week 1 recording. PSU Media Space. https://media.pdx.edu/media/t/1_a45y49qc
+
+*Note:* Items 1 to 7 and 12 are summarized from the English captions of each video. Slides, the Project Plan Examples and the Discussion Guide files on Canvas were not read. Third-party facts (Segway, Stuxnet, Change Healthcare, MIT and McKinsey figures and so on) are reported as the instructors present them.
