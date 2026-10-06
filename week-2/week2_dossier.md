@@ -107,16 +107,43 @@ This feeds directly into the #2 Project Plan, where the Canvas assignment requir
 
 ## 5. Class prep: recordings, HBR reading and questions for Kristy Edwards
 
-**The six recordings: what to take from each**
+**The six recordings: one mini-section each**
 
-| Recording (length) | What to take from it |
-| --- | --- |
-| Siebel Ch. 3 [1] (26:25) | Cloud, big data, AI and IoT work as a layered loop; adoption depends on business models and KPIs, and varies by function; generative AI pilots reportedly fell from about 25% to about 18% actively in use |
-| Cyber Security [2] (length not listed) | Security moved from perimeter to detection, Zero Trust and resilience; IoT, ransomware and prompt injection are the new surfaces; most breaches start with people |
-| Customer Insight [3] (19:19) | Start with the problem, not the solution; a job to be done has functional, emotional and social dimensions; judge a problem on intensity, frequency and density; interviews beat surveys and focus groups for the "why" |
-| Problem Definition [4] (12:00) | Agree on a metric and a baseline; beware the HIPPO; use the five whys to reach root cause (Jefferson Memorial, airport street pricing) |
-| VOC Recruitment and Interview Plan [5] (7:29) | Screening criteria, recruiting channels, a short screener, consent, and tools (Calendly, Zoom, Otter.ai, content grid) |
-| VOC Discussion Guide [6] (4:26) | Ask for stories, not predictions; do not pitch or lead; favor what, when, where, who, how and why |
+### Siebel Chapter 3: The Information Age Accelerates (26:25) [1]
+
+- **Layered loop:** Cloud, big data, AI and IoT reinforce each other (a connected car's sensors feed the cloud, the data is aggregated, models learn, and results flow back to navigation). Cloud turns capital expense into operating expense, and the big data challenge is now trust (quality, governance, bias).
+- **Business model first:** A business model defines how value is created, delivered and captured (Netflix works, WeWork's long leases against short memberships did not). People adopt technology that helps them hit their KPIs, and adoption varies by function: IT about 62%, marketing and sales about 40%, operations cautious, HR, finance and legal slowest (figures as cited).
+- **Adoption gap:** Generative AI pilots reportedly fell from about 25% of companies to about 18% actively using it, and McKinsey is cited saying about 30% of today's hours could be automated by 2030.
+
+### Cyber Security (length not listed) [2]
+
+- **How security evolved:** From a defensive wall, to detection and response (banks flagging unusual card use), to security by design, Zero Trust ("never assume, always verify") and resilience planning.
+- **New surfaces:** IoT (default passwords on cameras, a pacemaker flaw used to short a stock, Stuxnet), cloud (ransomware as an industry, the Change Healthcare breach) and AI (prompt injection and the "lethal trifecta" of untrusted content, private data and the ability to act).
+- **Takeaway:** Everything is hackable, most breaches start with people, and external data should be treated as untrusted until verified.
+
+### The Importance of Customer Insight in Innovation & Transformation (19:19) [3]
+
+- **Innovation is a numbers game:** Failure rates are high everywhere (the lecture cites 95% of generative AI pilots, about 93% of drugs, about 75% of ERP projects). Odds improve with problem-first thinking, disciplined experiments and customer validation. The Segway is the cautionary tale of a solution looking for a problem.
+- **Jobs to be done:** A job is the outcome a customer wants in a context, stable over time and solution-agnostic, with functional, emotional and social dimensions. A problem is judged on intensity (shark bite or mosquito bite), frequency and density, and must be monetizable.
+- **Research tools:** Existing data, surveys, voice-of-customer interviews, ethnography and experiments, from cheap and shallow to costly and deep. Surveys and focus groups are weak at finding the "why," and "it's easy to open your mouth, hard to open your wallet."
+
+### Problem Definition (12:00) [4]
+
+- **Metric and baseline:** "Make our GenAI chat better" is vague; "cut response time to under 10 seconds" is a target everyone can work toward. Beware the HIPPO, the Highest Paid Person's Opinion.
+- **Five whys:** Keep asking why until you reach the root cause, a method from Toyota in the 1950s. In the Jefferson Memorial parable, erosion traced back to bird droppings, spiders, insects and finally the timing of the floodlights.
+- **Airport case:** To raise revenue, a student team found concessions were the controllable lever, then interviews showed travelers did not know the airport enforces street pricing; 7 of 11 said knowing would make them buy more. Experiments would still be needed to confirm.
+
+### VOC Recruitment and Interview Plan (7:29) [5]
+
+- **Recruiting:** Define screening criteria and a respondent profile first. If a sponsor lines up interviews, send a short email with the purpose, time needed and a call to action; otherwise use social posts (tagline, picture, clear next step) or your own network.
+- **Screener:** Keep it short and mostly multiple choice, use brackets for age and income, state that answers are used only for the class, and start with a closed question that checks the person actually does the activity.
+- **Tools:** Calendly for scheduling, Zoom to record and Otter.ai to transcribe (with consent), a content grid of quotes by question, and Miro or slides to share insights.
+
+### VOC Discussion Guide & Problem Interviews (4:26) [6]
+
+- **Run the conversation:** Open briefly, chat to put the person at ease, and ask permission to record. Ask for stories ("When was the last time you...?"), stay on the surface like a snorkeler until you hear strong emotion, then dive deeper ("tell me more").
+- **Avoid:** Speculation about future behavior, pitching, implying the person has a problem, and leading yes/no questions. Favor what, when, where, who, how and why, and add "or not" to a yes/no question.
+- **Practicalities:** A note-taker is fine as long as the interviewer is fully present; other team members can send questions by chat. Two sample discussion guides are on Canvas.
 
 **HBR article: "Know Your Customers' 'Jobs to Be Done'" (Christensen, Hall, Dillon and Duncan, Sept 2016) [9]**
 
